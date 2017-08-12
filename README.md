@@ -10,4 +10,4 @@ hostname = 1.1.1.1
 [rtrB]
 hostname = 2.2.2.2
 ```
-You can find pre-built x86 LEDE images with everything pre-configured in the images directory, complete with VirtualBox configuration.
+You can find pre-built x86 LEDE images with everything pre-configured in the images directory, complete with VirtualBox configuration. Alternatively, you can build the images yourself from this repository: https://github.com/alex-tokar/lede-srv6
